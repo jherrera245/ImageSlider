@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ImageSlider</string>
+    <string name="text_view_pelicula"><b>NOMBRE DE LA PELÍCULA O SERIE:</b> <![CDATA[\nYo Robot]]></string>
+    <string name="text_view_fecha"><b>FECHA DE LANZAMIENTO:</b> <![CDATA[\n16 de julio de 2004]]></string>
+    <string name="text_view_autores"><b>AUTORES PRINCIPALES:</b> <![CDATA[\nAlex Proyas\nIsaac Asimov]]></string>
+    <string name="text_view_descripcion"><b>DESCRIPCIÓN:</b> <![CDATA[\nEn el 2035, un detective de homicidios de Chicago persigue a un sofisticado robot acusado de matar a un científico.]]></string>
+
+    <string name="button_abrir_navegador">SITIO WEB</string>
 </resources>
